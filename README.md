@@ -20,4 +20,5 @@ Configure composer.json:
             "url": "https://github.com/mako-pro/blade"
         }
     ],
-    "minimum-stability": "dev-main"
+    "minimum-stability": "dev",
+	"prefer-stable": true
