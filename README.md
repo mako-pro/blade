@@ -19,5 +19,5 @@ Configure composer.json:
             "type": "vcs",
             "url": "https://github.com/mako-pro/blade"
         }
-    ]
-	
+    ],
+    "minimum-stability": "dev-main"
