@@ -1,0 +1,12 @@
+{
+    "name": "makopro/blade",
+    "description": "Blade templating engine for Mako Framework.",
+    "autoload": {
+        "psr-4": {
+            "makopro\\blade\\": "src"
+        }
+    },
+    "require": {
+        "mako/framework": ">=9.1"
+    }
+}
