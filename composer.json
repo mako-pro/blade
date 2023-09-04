@@ -7,6 +7,6 @@
         }
     },
     "require": {
-        "mako/framework": ">=9.1"
+        "mako/framework": "9.1.*"
     }
 }
