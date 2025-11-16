@@ -11,14 +11,14 @@ class BladePackage extends Package
      *
      * @var string
      */
-    protected $packageName = 'makopro/blade';
+    protected string $packageName = 'makopro/blade';
 
     /**
      * Package namespace.
      *
      * @var string
      */
-    protected $fileNamespace = 'blade';
+    protected string $fileNamespace = 'blade';
 
     /**
      * {@inheritdoc}
